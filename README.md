@@ -1,7 +1,6 @@
 # GreyDesert_xfce
 # Screenshot
-https://raw.githubusercontent.com/allubie/GreyDesert_xfce/main/Screenshot/Screenshot_2024-09-05_15-12-46.png
-
+![image](https://raw.githubusercontent.com/allubie/GreyDesert_xfce/main/Screenshot/Screenshot_2024-09-05_15-12-46.png)
 # Applications
 * <b>OS:</b>  EndeavourOS
 * <b>WM:</b>  xfce4
